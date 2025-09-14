@@ -33,7 +33,7 @@ python main.py 7470bcfbec081b90eda69a108e26946f4bb937688213eb3c8d6e3172dfc06ec5
 
 ### アクセストークンの取得方法
 
-1. YayのWebサイト（https://yay.space）にログイン
+1. YayのWebサイト ([https://yay.space](https://yay.space)) にログイン
 2. ブラウザの開発者ツールを開く（F12）
 3. Networkタブを開く
 4. ページをリロードまたは何らかの操作を行う
